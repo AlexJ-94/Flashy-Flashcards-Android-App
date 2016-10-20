@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text">#FFFFFF</color>
+    <color name="background">#B0CFD9</color>
+    <color name="backgroundListItem">#5D7BA0</color>
+    <color name="backgroundFolder">#7C8CA0</color>
+    <color name="flashCardBackground">#00CED1</color>
+</resources>

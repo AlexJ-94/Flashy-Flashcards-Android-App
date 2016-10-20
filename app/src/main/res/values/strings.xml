@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flashy Flashcards</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_input">Please input your question</string>
+    <string name="answer_input">Please input the answer to your question</string>
+    <string name="folder_name">Please input the name of your folder</string>
+    <string name="add_flashcard">Add Flashcard</string>
+    <string name="add_folder">Add Folder</string>
+    <string name="delete_flashcard">Delete Flashcard</string>
+    <string name="delete_folder">Delete Folder</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="show_question">Show Question</string>
+</resources>
